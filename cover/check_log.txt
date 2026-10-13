@@ -1,0 +1,116 @@
+[ok] shell is one solid
+[ok] shell against the frame: 0.000 mm3 of overlap
+[ok] shell against the motor: 0.000 mm3 of overlap
+[ok] shell against the pin bolts: 0.000 mm3 of overlap
+[ok] shell against the pin washers and nyloc nuts: 0.000 mm3 of overlap
+[ok] pegs, forks and wall stops aside, the shell can move 1.0 mm left, right, forward or back and still touch nothing (0.000 mm3): least clearance 1.0 mm
+[ok] nearest the shell comes to the motor, a pin bolt or a nut: 4.5 mm
+[ok] left-right it is held by the four forks on the two tall gussets: free at 0.35 mm (0.000 mm3), stopped at 0.9 mm (93.4 mm3)
+[ok] front-back it is held by two pegs (3.0 x 4.4 mm) in the base's 5.5 mm holes: free travel -0.64 to +0.47 mm (the real solids agree: 0.000 and 0.000 mm3 just inside, 0.00 and 0.02 just outside). COUPON C1
+[ok] the frame printed front face down, so these holes lay on their side and may be small front to back. Seated travel in a smaller hole: 5.2 hole -0.49 to +0.32, 5.0 hole -0.39 to +0.21, 4.8 hole -0.29 to +0.10. It still seats in a hole printed 0.5 mm small. COUPON C1 on the REAL frame first
+[ok] blind fitting: four stops on the side walls' front edges meet the wall 0.25 mm past the seat (0.000 mm3 just before, 5.20 just after). Pushed hard on the wall the pegs are over their holes: 0.25 is inside the +0.47 travel, and a peg TIP still enters a 5.0 hole there (tip travel +0.69) and centres itself as it drops
+[ok] peg tips are 3.6 x 2.2 mm. No fillet at the root: the root is level with the base's top, so a 1 mm fillet would make it 5.0 x 6.4 in the mouth of a 5.5 hole
+[ok] the way on is clear at 15 positions: down behind the motor, forward on its peg tips (3 mm up), drop (0.000 mm3)
+[ok] it need not be held at exactly 3 mm: clear at 3.5, 5.0, 6.0 mm up as well (0.000 mm3). The window is 3 to 6.4 mm: at 7.0 the baffle tops meet the two top pin bosses (1.7 mm3)
+[ok] tipped 1.5 degrees forward on its peg tips it touches the wall 4 mm early (its top leads by 4.2 mm) and nothing else: 0.000 mm3 against motor, bolts and nuts all the way in. Level it and it goes home
+[ok] all of the shell is behind the wall: it ends at Z = -8.25, the wall's back face is -8
+[ok] shell, sled, tester and clamps against sun, planets, ring, spider, wheel and grip: 0.000 mm3; the nearest turning face is at Z = +3.2, 11.4 mm in front of the shell with the whole wall between
+[ok] from dead ahead nothing of the shell shows round the frame: 0.0 mm2 outside its outline (12.9 mm2 of the feet's wide rear ends are outside the WALL's outline, straight behind the outer gussets)
+[ok] through the wall's two windows (8211 mm2 in all): the 5184 mm2 in front of the shell is closed by the two baffles and the side walls' edges (0.0 mm2 left open). The other 3027 mm2 is OUTBOARD of the shell: through it the camera sees the shell's plain side wall, a foot and a clamp, no wire. The air slit is 4 mm, too narrow for a finger
+[ok] everything the shell holds is inboard of its side walls: card to 45 mm, sled to 69.7, walls at 69 to 71.0
+[note] the filmed back is one plain face: no hole, no notch, no screw head. One opening in all: a 25 x 22 mm window in one side, filled by the sled's face plate. Two things may GHOST through thin plastic in a pale filament: the 12 x 11 mm light spot on the lid (wanted) and the 1 mm patch round the window
+[note] from high in front (over 30 degrees up, over the wall's top) a camera can look down the 13 mm warm-air slot. The spare lead is drawn looped on the BACK half of the motor's top, under the lid. Tape it there
+[ok] left G-clamp (step 9's, PLACEHOLDER jaw 22 mm wide) at x = -85: jaw wholly on the foot with 3.0 mm each side and 26.0 mm front and back, touching nothing else (0.000 mm3). COUPON C1
+[ok] right G-clamp (step 9's, PLACEHOLDER jaw 22 mm wide) at x = +85: jaw wholly on the foot with 3.0 mm each side and 26.0 mm front and back, touching nothing else (0.000 mm3). COUPON C1
+[ok] clamp opening needed: table 28 + base 8 + foot 4 = 40 mm of 100
+[ok] the bay between side wall and outer gusset is 28 mm (it was 52.5 before the cover): a jaw up to 24 mm goes anywhere on the foot with 2 mm each side. Behind the gusset's tail the foot runs to the base's edge, a 34 mm bay: a jaw up to 30 mm fits there, hooked 30 mm onto the table (0.000 mm3)
+[note] his clamp is NOT measured (Blue Spot 4 inch, no drawing found). Measure the widest part of the jaw: 24 mm or less, anywhere; 24 to 30, behind the short gusset; more, tell me. Put the number in G_JAW_W
+[ok] the USB tester always hangs straight above a G-clamp's arm, and the shell's window freezes its height. RULE: 37.4 - W/2 - D must be 5 mm or more (W = tester body width, D = height of the clamp's frame above the face that presses). PLACEHOLDERS W = 24, D = 14: 11.4 mm. If the real numbers give less, the sled becomes a shelf (board level, tester flat, screen up) behind the SAME window: 41.15 - thickness/2 - D, 21.1 mm with thickness 12. Verdict on today's numbers: print as drawn
+[note] D is NOT measured: 14 mm is copied from the step 9 drawing. Examples on this sled: W 24, D 22 leaves 3.4 mm; W 30, D 25 CLASHES by 2.6. This sled is good up to D = 20.4 (W 24); a shelf sled up to D = 30.1 (thickness 12), but it is NOT drawn yet and takes a board only up to about 25 mm wide (a tall gusset is under it). Do NOT print the shell before D, the tester's width and thickness and the module's width are in this file: a wrong guess is a second 7 hour shell
+[ok] the card ELECTRONICS.md step 0 says to cut (130 x 100) does NOT go in on end: 875 mm3 into the shell. It must be trimmed to the paper template's outline: picture cover_01
+[ok] the card ELECTRONICS.md step 0 says to cut (130 x 100) does NOT go in on its side: 376 mm3 into the shell. It must be trimmed to the paper template's outline: picture cover_01
+[ok] card 90 x 111 x 2.0 (template size, on end, capacitor down) and every part on it sit in the pocket: 0.000 mm3
+[ok] card 90 x 111 x 3.0 (template size, on end, capacitor down) and every part on it sit in the pocket: 0.000 mm3
+[ok] a scissor-cut card may be 88 to 92 wide and 110 to 112 tall: the biggest still seats (0.000 mm3) and lifts 1.0 mm clear of the ledge's lip; under each clip the smallest has 73 mm2 and the template size 99 (limit 60)
+[ok] going in: slid 5 mm up under the two clips, no clip or lip touches a part (0.000 mm3), and its bottom edge is 2.0 mm clear of the ledge's lip
+[ok] diodes: the nearest plastic on their side of the card is 15.6 mm away. Behind them is the card, then 3 mm of air; no rib is behind a diode
+[ok] clips, lips and stops bear on bare card only: the nearest any part comes to them is 2.8 mm
+[ok] card and parts against frame, gussets, motor and nuts: 0.000 mm3; capacitor to the motor's back 18.0 mm
+[ok] the card is held at both ends: 3 mm of its bottom edge behind the ledge's lip, both top corners behind a 2.4 mm clip. To reach the motor's back its J joints would have to tip 16 degrees (28 mm). Under the clips it has 1.5 mm of play at 2 mm thick (PLACEHOLDER): two folds of tape on its back take it up
+[note] belt and braces for a bare 24 V ladder facing a metal motor: two layers of masking tape across the motor's BACK face before the cover goes on. Then even a loose card meets paper. Picture cover_04
+[ok] the card is inside the wall's solid middle column: edge at 45 mm, column to 52.5 mm
+[ok] bus light: the LED's tip is 6.2 mm under a 12 x 11 mm spot where the lid is 0.8 mm thin, for any card 1 to 3.0 mm thick; lifted 5 mm on the way in the tip is 1.2 mm under the lid, so NOTHING may stick out past the card's edge
+[note] whether a 0.8 mm skin lets the light through depends on the filament: at film pace the LED runs at about 3 mA. COUPON C2 over a lit LED decides. No glow in black: that is fine for the film, but then count to ten after the wheel stops before touching anything inside
+[ok] lid is 7.6 mm above the top pin bosses and 21.5 mm above the motor (room for the looped spare lead)
+[ok] PLACEHOLDER module 45 x 22 on its sled, seated: 0.000 mm3 against shell, frame, gussets and motor
+[ok] the sled goes on flat, 4 mm high and 1.5 mm inboard, into the corner, then down: 4 positions, 0.000 mm3. Its key drops 3.5 mm into the rail's gap
+[ok] plugging in pushes the key against the rail (6.5 mm3 at 0.8 mm), unplugging pulls the face plate against the side wall (240.7 mm3), the rail's lip holds the keel down (48.8 mm3 at 0.8 mm). Fit 0.4 mm: COUPONS C3 + C4
+[ok] and inside those fits it is free (0.000 mm3)
+[ok] LIFT with the tester in: the sled, module and tester rise 0.8 mm free (0.000 mm3), then the plug meets the window's top edge (2.2 mm3 at 1.5 mm). The rail's lip holds for 3 mm and the key for 3.5, so a tug on the phone lead cannot unseat it. COUPONS C3 + C4: tug the tester up, the sled must stay
+[note] with the tester OUT the sled is held down by its own weight only (0.000 mm3 in its way up, by design: that is how it comes out). Plug the tester in before the shell goes on the machine, or put one strip of tape over the sled's top edge
+[ok] PLACEHOLDER tester 62 x 24 x 12 plugs in from outside through the window, drawn with a real-length plug (12 mm): 0.000 mm3
+[ok] the socket's mouth is 1.3 mm inside the shell's outer face (it was 2.3): the side wall is 1 mm thick round the window and the sled's nose sits in that recess. A 12 mm plug goes in 10.7 mm before the tester's body meets the wall
+[note] plug length 12 mm and full-seat depth 10.3 mm are from MEMORY, not a datasheet, and the module's socket may sit back from its board's edge. The test that settles it: mark the plug with a pen where it stops in the BARE module; in the cover it must go in to the same line
+[ok] the face plate covers the window with 2 mm to spare above and below and 2 mm beyond its far edge
+[ok] the window is 25 x 22 mm. Flat on the panel (this sled) the plug is 12 x 4.5 in it; on a shelf sled (board level, tester's screen UP) it would be 4.5 x 12: both pass. The SHELL fixes only which side the socket is on
+[ok] the seat takes a board up to 36 mm wide if its parts stand 12 mm tall, 28 wide if 15 tall (it crosses a tall gusset), and 47 long. It was 26 wide
+[note] module size, socket position, pad position and tester size are PLACEHOLDERS. The sled is designed again from the real module (and may become a shelf, so the tester's screen faces up): 20 minutes of printing. Do not print file 3 as it is
+[note] the shell fixes the SIDE the socket is on (USB_SIDE). Hold the tester in any USB charger first: see which face the screen is on, then choose the side the camera will stand on
+[ok] every wire, drawn as a hand lays it (4 motor leads as one bundle, then fanned out; 2 output wires; 2 meter tails), lies wholly inside: 0.000 mm3 against shell, frame, motor, bolts, nuts and sled
+[ok] the same wires against the card, the rails and joints, the capacitor, the eight diodes and the module (each wire's own soldered end left out): 0.000 mm3. The old check never looked: its wires ran through the capacitor
+[ok] air between wires that are not one bundle: least 1.0 mm (lead1/lead2 on the card), limit 1.0
+[ok] motor leads: 216 mm drawn with 0.625 of a loop of spare taped on the motor, PLACEHOLDER length 300; the shortest route with the shell in place is about 85
+[ok] pose 1, sled and card go in (picture cover_03): books against the base's back edge, the shell on its BACK on them, pushed forward until it meets the motor's back (31 mm over the books' edge, 0.000 mm3 against the machine, 104 mm3 into the motor if pushed 1 mm more: the motor is the stop). Through the tie the worst lead needs 220 mm of 300: 80 to spare (limit 50; a stack 12 to 17 cm high leaves 75 or more). It was drawn 15 mm BEHIND the base: that needs 266, only 34 to spare, and the old check's 57 forgot the tie. On the bare table: 306, too short
+[ok] pose 2, the spare lead is looped and taped (picture cover_05, steps 1 and 2): the shell UPRIGHT with its front edge level with the motor's back, 53 mm short of home, its front 31 mm standing on the base, a thin book under its back edge (0.000 mm3; the pegs hang 36 mm behind the base). The lid's front edge is 12 mm BEHIND the motor's back: its whole top is open to two hands. Drawn there with 0.625 of a loop (44 mm) on the motor, the worst lead is 267 mm of 300: 33 left (limit 20; the straight-line floor through the tie is 148 + 44)
+[ok] how much spare can be looped is decided THERE, not in the finished drawing. A loop and a half (1.625 turns, 113 mm) fits the finished drawing (284 mm) but would need 336 mm in the pose where it is wound: more than a 300 mm lead. So 0.625 of a loop is drawn and no more
+[ok] the order of work is fixed. NOT on the books: with the loop already taped the card would go in with 36 mm to spare, under the limit of 50. NOT once the shell is home: the one opening over the motor is the 13 x 98 mm slot under a lid 21.5 mm up, and no hand loops and tapes through that. So: books (sled, card), stand up, loop and tape, push home
+[note] once home there is 84 mm more lead inside than the finished drawing shows (51 freed by the last push, 33 left slack in the coil pose). It bows behind the motor, where the taped back face is: press it DOWN behind the motor with a finger as the shell goes home. Lead length (300), where the leads leave the motor and where he ties them are PLACEHOLDERS: his ruler settles them
+[note] measure the motor leads. 30 cm: as drawn. 50 cm: every pose passes with 20 cm more; while the shell is still on the books fold that 20 cm flat and tape it to the inside of the back panel, below the card, on the side away from the module (or cut the leads to 30 and tin the ends again)
+[ok] output wires: 121 mm (PLUS) and 141 mm (MINUS) as drawn. CUT BOTH 170 mm, not the 'about 10 cm' in ELECTRONICS.md: the MINUS tab is on the far side of the card from the module, and both go in at the module's tail, through the sled's comb
+[ok] tightest bend drawn, mm radius: motor leads 8.0 (limit 8), output wires 10.0 (limit 10), meter tails 5.0 (limit 5)
+[ok] 27 mm of free depth between the diodes and the motor's back for the leads to cross
+[ok] meter tails: each leaves its rail through a 1 k resistor, so a slipped tail end on a clamp passes 24 V / 2 k = 12 mA, not the generator's 3 to 5 A. They run down the inside of the side walls and out under the back panel, a 6 mm gap against a 1.6 mm wire, hidden from the front and the back
+[note] NO crocodile clips inside the cover (film step E10 as drawn clips the meter on the rails): between card and motor there is 32 mm, a clip is 30 mm or more, and both rails sit 3 mm outside the motor's metal sides. Use the two tails, for the METER only, never the bench supply; or film without the meter and read the tester
+[note] strain relief is HIS to build: the four motor leads tied to the card with a twist of jumper wire through two pencil holes and taped over; the two output wires taped into the sled's comb; a finger of slack at every solder joint. Picture cover_01, cover_04
+[ok] air in: 828 mm2 under the back panel, right below the card and the module (it was 207), plus two baffle slits 1160 mm2 at the front: 1988 in all
+[ok] air out: slot along the top 1274 mm2, 188 mm higher, hidden 29 mm below the wall's top
+[note] heat is an ESTIMATE, not a measurement: 6 W inside (3.4 to 9.5), air at the top rear judged 10 to 25 C above the room. PLA lets go at 57 C, PETG at 69 C: print the sled in PETG (it cradles the module), and the shell too if you have the filament. Rehearse 10 minutes of real charging with a hand on the top rear of the shell and on the sled's face plate
+[ok] 0.4 mm nozzle: shell wall 2.0 mm, thinnest feature is the baffle tip at 0.8 mm (two lines = 0.8)
+[note] lay the shell on its BACK when it is off the machine. Stood upright on a desk it stands on its two pegs. A snapped peg may be glued back: it only locates
+-- 63 checks ok, 0 failed, 16 notes (a note is NOT a pass)
+[ok] shell: 210 x 191 on the plate, 93 tall, fits 256 with 3 mm at the edge
+[ok] shell: no supports. Every face leans 45 degrees or less except 4 flat bridges (407 mm2 in all, longest span 20 mm, limit 30)
+[ok] sled: 58 x 48 on the plate, 25 tall, fits 256 with 3 mm at the edge
+[ok] sled: no supports. Every face leans 45 degrees or less except 1 flat bridges (31 mm2 in all, longest span 2 mm, limit 30)
+[ok] job 2 is the shell ALONE on the plate (no placeholder sled packed with it any more): inside the edge margin and clear of the P1S's reserved corner
+[ok] job 1, the coupons: 5 test pieces (35 cm3), 8.0 mm apart at the nearest (rule 8)
+[ok] mesh gate: PASS  1_cover_coupons.stl: bodies=5 (want 5) watertight=True vol=34.92cm3 bbox=182.0x109.8x41.0mm fits_bed=True
+[ok] mesh gate: PASS  2_cover_shell.stl: bodies=1 (want 1) watertight=True vol=186.90cm3 bbox=210.0x191.0x92.8mm fits_bed=True
+[ok] mesh gate: PASS  3_module_sled_PLACEHOLDER_do_not_print_yet.stl: bodies=1 (want 1) watertight=True vol=8.48cm3 bbox=58.5x47.5x25.0mm fits_bed=True
+[ok] shell 187 cm3: about 232 g of PLA or 237 g of PETG; sled 8.5 cm3
+[note] print time is NOT sliced. My guess: 7 to 8 hours for the shell at 0.2 mm, 1 hour for the coupons, 20 minutes for a sled
+exported to /Users/paing/Documents/crank_charger/cad/stl/cover: 1_cover_coupons.stl, 2_cover_shell.stl, 3_module_sled_PLACEHOLDER_do_not_print_yet.stl
+.venv/bin/python cad/wire_cover.py  188.84s user 127.85s system 271% cpu 1:56.53 total
+
+-- mesh gate, run again by hand on every STL in cad/stl/cover/ (2026-10-05, after the export above)
+PASS  cad/stl/cover/1_cover_coupons.stl: bodies=5 (want 5) watertight=True vol=34.92cm3 bbox=182.0x109.8x41.0mm fits_bed=True
+exit=0
+PASS  cad/stl/cover/2_cover_shell.stl: bodies=1 (want 1) watertight=True vol=186.90cm3 bbox=210.0x191.0x92.8mm fits_bed=True
+exit=0
+PASS  cad/stl/cover/3_module_sled_PLACEHOLDER_do_not_print_yet.stl: bodies=1 (want 1) watertight=True vol=8.48cm3 bbox=58.5x47.5x25.0mm fits_bed=True
+exit=0
+
+-- pictures: .venv/bin/python cad/wire_cover_render.py
+wrote cover/cover_01.png
+wrote cover/cover_00.png
+wrote cover/cover_02.png
+wrote cover/cover_03.png
+wrote cover/cover_04.png
+wrote cover/cover_05.png
+wrote cover/cover_06.png
+.venv/bin/python cad/wire_cover_render.py  34.90s user 3.98s system 112% cpu 34.420 total
+
+-- what changed in this run (closing F1 and F2 of the last independent check)
+F1: no geometry change (the three STL files are byte for byte the same as before). LIE_GAP 15 -> -31 (shell pushed forward to the motor's back), the reach check now goes round by the tie, a coil pose (COIL_BACK 53) with its own checks, and the loop of spare lead is no longer typed: fit_coil() draws the most the lead allows in the pose where it is wound (0.625 of a loop with 300 mm leads; the old 1.625 turns needs 336 mm there).
+F2: G_FRAME_T marked PLACEHOLDER, the tester/clamp check now states the rule 37.4 - W/2 - D >= 5 and the shelf-sled fallback; COVER.md section 2 has the new row 3 (D).
+Pictures: cover_00 is new (what to measure); cover_03 and cover_05 redrawn for the order of work; cover_04 and cover_06 one label each; cover_01 and cover_02 unchanged.

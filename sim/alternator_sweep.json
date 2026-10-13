@@ -1,0 +1,1646 @@
+{
+ "nema17": {
+  "params": {
+   "r": 1.5,
+   "l": 0.0028,
+   "hold": 0.4,
+   "i": 1.7,
+   "pole_pairs": 50,
+   "ke": 0.16638
+  },
+  "rows": [
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 3,
+    "e_peak": 3.485,
+    "p_bus": 0.0055,
+    "p_shaft": 0.0063,
+    "torque": 0.0003
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 5,
+    "e_peak": 3.485,
+    "p_bus": -0.0,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 7,
+    "e_peak": 3.485,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 9,
+    "e_peak": 3.485,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 12,
+    "e_peak": 3.485,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 15,
+    "e_peak": 3.485,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 18,
+    "e_peak": 3.485,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 24,
+    "e_peak": 3.485,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 30,
+    "e_peak": 3.485,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 200,
+    "vbus": 40,
+    "e_peak": 3.485,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 3,
+    "e_peak": 5.227,
+    "p_bus": 0.788,
+    "p_shaft": 1.0516,
+    "torque": 0.03348
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 5,
+    "e_peak": 5.227,
+    "p_bus": 0.0001,
+    "p_shaft": 0.0001,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 7,
+    "e_peak": 5.227,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 9,
+    "e_peak": 5.227,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 12,
+    "e_peak": 5.227,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 15,
+    "e_peak": 5.227,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 18,
+    "e_peak": 5.227,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 24,
+    "e_peak": 5.227,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 30,
+    "e_peak": 5.227,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 300,
+    "vbus": 40,
+    "e_peak": 5.227,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 3,
+    "e_peak": 7.84,
+    "p_bus": 2.4855,
+    "p_shaft": 3.7677,
+    "torque": 0.07995
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 5,
+    "e_peak": 7.84,
+    "p_bus": 1.2245,
+    "p_shaft": 1.4663,
+    "torque": 0.03112
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 7,
+    "e_peak": 7.84,
+    "p_bus": 0.0566,
+    "p_shaft": 0.0608,
+    "torque": 0.00129
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 9,
+    "e_peak": 7.84,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 12,
+    "e_peak": 7.84,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 15,
+    "e_peak": 7.84,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 18,
+    "e_peak": 7.84,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 24,
+    "e_peak": 7.84,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 30,
+    "e_peak": 7.84,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 450,
+    "vbus": 40,
+    "e_peak": 7.84,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 3,
+    "e_peak": 10.454,
+    "p_bus": 3.399,
+    "p_shaft": 5.4636,
+    "torque": 0.08696
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 5,
+    "e_peak": 10.454,
+    "p_bus": 3.2914,
+    "p_shaft": 4.2193,
+    "torque": 0.06715
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 7,
+    "e_peak": 10.454,
+    "p_bus": 1.6425,
+    "p_shaft": 1.8717,
+    "torque": 0.02979
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 9,
+    "e_peak": 10.454,
+    "p_bus": 0.2446,
+    "p_shaft": 0.2613,
+    "torque": 0.00416
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 12,
+    "e_peak": 10.454,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 15,
+    "e_peak": 10.454,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 18,
+    "e_peak": 10.454,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 24,
+    "e_peak": 10.454,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 30,
+    "e_peak": 10.454,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 600,
+    "vbus": 40,
+    "e_peak": 10.454,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 3,
+    "e_peak": 13.938,
+    "p_bus": 3.902,
+    "p_shaft": 6.4752,
+    "torque": 0.07729
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 5,
+    "e_peak": 13.938,
+    "p_bus": 5.2978,
+    "p_shaft": 7.1609,
+    "torque": 0.08548
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 7,
+    "e_peak": 13.938,
+    "p_bus": 4.6499,
+    "p_shaft": 5.5919,
+    "torque": 0.06675
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 9,
+    "e_peak": 13.938,
+    "p_bus": 2.8191,
+    "p_shaft": 3.1551,
+    "torque": 0.03766
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 12,
+    "e_peak": 13.938,
+    "p_bus": 0.4173,
+    "p_shaft": 0.4395,
+    "torque": 0.00525
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 15,
+    "e_peak": 13.938,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 18,
+    "e_peak": 13.938,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 24,
+    "e_peak": 13.938,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 30,
+    "e_peak": 13.938,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 800,
+    "vbus": 40,
+    "e_peak": 13.938,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 3,
+    "e_peak": 17.423,
+    "p_bus": 4.1311,
+    "p_shaft": 6.9549,
+    "torque": 0.06641
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 5,
+    "e_peak": 17.423,
+    "p_bus": 6.1523,
+    "p_shaft": 8.5081,
+    "torque": 0.08125
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 7,
+    "e_peak": 17.423,
+    "p_bus": 7.0502,
+    "p_shaft": 8.7751,
+    "torque": 0.0838
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 9,
+    "e_peak": 17.423,
+    "p_bus": 6.0102,
+    "p_shaft": 6.9604,
+    "torque": 0.06647
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 12,
+    "e_peak": 17.423,
+    "p_bus": 3.0518,
+    "p_shaft": 3.3073,
+    "torque": 0.03158
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 15,
+    "e_peak": 17.423,
+    "p_bus": 0.6009,
+    "p_shaft": 0.6271,
+    "torque": 0.00599
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 18,
+    "e_peak": 17.423,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 24,
+    "e_peak": 17.423,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 30,
+    "e_peak": 17.423,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1000,
+    "vbus": 40,
+    "e_peak": 17.423,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 3,
+    "e_peak": 22.65,
+    "p_bus": 4.2991,
+    "p_shaft": 7.313,
+    "torque": 0.05372
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 5,
+    "e_peak": 22.65,
+    "p_bus": 6.7413,
+    "p_shaft": 9.4704,
+    "torque": 0.06957
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 7,
+    "e_peak": 22.65,
+    "p_bus": 8.5859,
+    "p_shaft": 10.9306,
+    "torque": 0.08029
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 9,
+    "e_peak": 22.65,
+    "p_bus": 9.5163,
+    "p_shaft": 11.3761,
+    "torque": 0.08356
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 12,
+    "e_peak": 22.65,
+    "p_bus": 8.0534,
+    "p_shaft": 9.0112,
+    "torque": 0.06619
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 15,
+    "e_peak": 22.65,
+    "p_bus": 4.9141,
+    "p_shaft": 5.2716,
+    "torque": 0.03872
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 18,
+    "e_peak": 22.65,
+    "p_bus": 1.9777,
+    "p_shaft": 2.0657,
+    "torque": 0.01517
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 24,
+    "e_peak": 22.65,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 30,
+    "e_peak": 22.65,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1300,
+    "vbus": 40,
+    "e_peak": 22.65,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 3,
+    "e_peak": 29.619,
+    "p_bus": 4.3987,
+    "p_shaft": 7.5278,
+    "torque": 0.04229
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 5,
+    "e_peak": 29.619,
+    "p_bus": 7.088,
+    "p_shaft": 10.0493,
+    "torque": 0.05645
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 7,
+    "e_peak": 29.619,
+    "p_bus": 9.4584,
+    "p_shaft": 12.1969,
+    "torque": 0.06851
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 9,
+    "e_peak": 29.619,
+    "p_bus": 11.3436,
+    "p_shaft": 13.792,
+    "torque": 0.07747
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 12,
+    "e_peak": 29.619,
+    "p_bus": 12.905,
+    "p_shaft": 14.8144,
+    "torque": 0.08322
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 15,
+    "e_peak": 29.619,
+    "p_bus": 11.921,
+    "p_shaft": 13.1374,
+    "torque": 0.0738
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 18,
+    "e_peak": 29.619,
+    "p_bus": 8.6138,
+    "p_shaft": 9.2116,
+    "torque": 0.05174
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 24,
+    "e_peak": 29.619,
+    "p_bus": 2.3901,
+    "p_shaft": 2.4682,
+    "torque": 0.01386
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 30,
+    "e_peak": 29.619,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0001,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 1700,
+    "vbus": 40,
+    "e_peak": 29.619,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0001,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 3,
+    "e_peak": 38.331,
+    "p_bus": 4.4557,
+    "p_shaft": 7.652,
+    "torque": 0.03321
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 5,
+    "e_peak": 38.331,
+    "p_bus": 7.2826,
+    "p_shaft": 10.3777,
+    "torque": 0.04505
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 7,
+    "e_peak": 38.331,
+    "p_bus": 9.9196,
+    "p_shaft": 12.8787,
+    "torque": 0.0559
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 9,
+    "e_peak": 38.331,
+    "p_bus": 12.3066,
+    "p_shaft": 15.0981,
+    "torque": 0.06553
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 12,
+    "e_peak": 38.331,
+    "p_bus": 15.1727,
+    "p_shaft": 17.6332,
+    "torque": 0.07654
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 15,
+    "e_peak": 38.331,
+    "p_bus": 16.9111,
+    "p_shaft": 18.966,
+    "torque": 0.08232
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 18,
+    "e_peak": 38.331,
+    "p_bus": 16.9153,
+    "p_shaft": 18.4701,
+    "torque": 0.08017
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 24,
+    "e_peak": 38.331,
+    "p_bus": 10.792,
+    "p_shaft": 11.3407,
+    "torque": 0.04923
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 30,
+    "e_peak": 38.331,
+    "p_bus": 4.238,
+    "p_shaft": 4.3587,
+    "torque": 0.01892
+   },
+   {
+    "motor": "nema17",
+    "rpm": 2200,
+    "vbus": 40,
+    "e_peak": 38.331,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0001,
+    "torque": 0.0
+   }
+  ]
+ },
+ "nema23": {
+  "params": {
+   "r": 0.9,
+   "l": 0.0025,
+   "hold": 1.26,
+   "i": 2.8,
+   "pole_pairs": 50,
+   "ke": 0.3182
+  },
+  "rows": [
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 3,
+    "e_peak": 6.664,
+    "p_bus": 3.3292,
+    "p_shaft": 5.0087,
+    "torque": 0.23915
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 5,
+    "e_peak": 6.664,
+    "p_bus": 0.7983,
+    "p_shaft": 0.9287,
+    "torque": 0.04434
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 7,
+    "e_peak": 6.664,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 9,
+    "e_peak": 6.664,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 12,
+    "e_peak": 6.664,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 15,
+    "e_peak": 6.664,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 18,
+    "e_peak": 6.664,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 24,
+    "e_peak": 6.664,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 30,
+    "e_peak": 6.664,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 200,
+    "vbus": 40,
+    "e_peak": 6.664,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 3,
+    "e_peak": 9.996,
+    "p_bus": 6.6825,
+    "p_shaft": 11.4039,
+    "torque": 0.363
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 5,
+    "e_peak": 9.996,
+    "p_bus": 5.7913,
+    "p_shaft": 7.5887,
+    "torque": 0.24156
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 7,
+    "e_peak": 9.996,
+    "p_bus": 2.5275,
+    "p_shaft": 2.8949,
+    "torque": 0.09215
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 9,
+    "e_peak": 9.996,
+    "p_bus": 0.1593,
+    "p_shaft": 0.1695,
+    "torque": 0.0054
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 12,
+    "e_peak": 9.996,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 15,
+    "e_peak": 9.996,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 18,
+    "e_peak": 9.996,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 24,
+    "e_peak": 9.996,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 30,
+    "e_peak": 9.996,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 300,
+    "vbus": 40,
+    "e_peak": 9.996,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 3,
+    "e_peak": 14.995,
+    "p_bus": 8.3564,
+    "p_shaft": 15.1505,
+    "torque": 0.3215
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 5,
+    "e_peak": 14.995,
+    "p_bus": 11.6358,
+    "p_shaft": 16.712,
+    "torque": 0.35464
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 7,
+    "e_peak": 14.995,
+    "p_bus": 11.2537,
+    "p_shaft": 14.1436,
+    "torque": 0.30014
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 9,
+    "e_peak": 14.995,
+    "p_bus": 7.6691,
+    "p_shaft": 8.8402,
+    "torque": 0.1876
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 12,
+    "e_peak": 14.995,
+    "p_bus": 2.1195,
+    "p_shaft": 2.2682,
+    "torque": 0.04813
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 15,
+    "e_peak": 14.995,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 18,
+    "e_peak": 14.995,
+    "p_bus": -0.0001,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 24,
+    "e_peak": 14.995,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 30,
+    "e_peak": 14.995,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 450,
+    "vbus": 40,
+    "e_peak": 14.995,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 3,
+    "e_peak": 19.993,
+    "p_bus": 8.9515,
+    "p_shaft": 16.573,
+    "torque": 0.26377
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 5,
+    "e_peak": 19.993,
+    "p_bus": 13.6764,
+    "p_shaft": 20.2741,
+    "torque": 0.32267
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 7,
+    "e_peak": 19.993,
+    "p_bus": 16.6719,
+    "p_shaft": 21.9435,
+    "torque": 0.34924
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 9,
+    "e_peak": 19.993,
+    "p_bus": 16.8331,
+    "p_shaft": 20.4558,
+    "torque": 0.32556
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 12,
+    "e_peak": 19.993,
+    "p_bus": 11.2819,
+    "p_shaft": 12.6279,
+    "torque": 0.20098
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 15,
+    "e_peak": 19.993,
+    "p_bus": 5.0271,
+    "p_shaft": 5.3624,
+    "torque": 0.08534
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 18,
+    "e_peak": 19.993,
+    "p_bus": 0.6952,
+    "p_shaft": 0.7199,
+    "torque": 0.01146
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 24,
+    "e_peak": 19.993,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 30,
+    "e_peak": 19.993,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 600,
+    "vbus": 40,
+    "e_peak": 19.993,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 3,
+    "e_peak": 26.657,
+    "p_bus": 9.2871,
+    "p_shaft": 17.3964,
+    "torque": 0.20765
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 5,
+    "e_peak": 26.657,
+    "p_bus": 14.7888,
+    "p_shaft": 22.3027,
+    "torque": 0.26622
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 7,
+    "e_peak": 26.657,
+    "p_bus": 19.3849,
+    "p_shaft": 26.1226,
+    "torque": 0.31182
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 9,
+    "e_peak": 26.657,
+    "p_bus": 22.6378,
+    "p_shaft": 28.399,
+    "torque": 0.33899
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 12,
+    "e_peak": 26.657,
+    "p_bus": 23.7764,
+    "p_shaft": 27.7338,
+    "torque": 0.33105
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 15,
+    "e_peak": 26.657,
+    "p_bus": 18.4268,
+    "p_shaft": 20.396,
+    "torque": 0.24346
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 18,
+    "e_peak": 26.657,
+    "p_bus": 11.6608,
+    "p_shaft": 12.4664,
+    "torque": 0.14881
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 24,
+    "e_peak": 26.657,
+    "p_bus": 1.1016,
+    "p_shaft": 1.1318,
+    "torque": 0.01351
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 30,
+    "e_peak": 26.657,
+    "p_bus": -0.0002,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 800,
+    "vbus": 40,
+    "e_peak": 26.657,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 3,
+    "e_peak": 33.322,
+    "p_bus": 9.4438,
+    "p_shaft": 17.7863,
+    "torque": 0.16985
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 5,
+    "e_peak": 33.322,
+    "p_bus": 15.3069,
+    "p_shaft": 23.2666,
+    "torque": 0.22218
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 7,
+    "e_peak": 33.322,
+    "p_bus": 20.5988,
+    "p_shaft": 28.0503,
+    "torque": 0.26786
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 9,
+    "e_peak": 33.322,
+    "p_bus": 25.0993,
+    "p_shaft": 31.9151,
+    "torque": 0.30477
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 12,
+    "e_peak": 33.322,
+    "p_bus": 29.7659,
+    "p_shaft": 35.4007,
+    "torque": 0.33805
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 15,
+    "e_peak": 33.322,
+    "p_bus": 30.7751,
+    "p_shaft": 34.9533,
+    "torque": 0.33378
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 18,
+    "e_peak": 33.322,
+    "p_bus": 25.7479,
+    "p_shaft": 28.2008,
+    "torque": 0.2693
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 24,
+    "e_peak": 33.322,
+    "p_bus": 11.8523,
+    "p_shaft": 12.4115,
+    "torque": 0.11852
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 30,
+    "e_peak": 33.322,
+    "p_bus": 1.5219,
+    "p_shaft": 1.5558,
+    "torque": 0.01486
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1000,
+    "vbus": 40,
+    "e_peak": 33.322,
+    "p_bus": -0.0003,
+    "p_shaft": 0.0001,
+    "torque": 0.0
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 3,
+    "e_peak": 43.318,
+    "p_bus": 9.5581,
+    "p_shaft": 18.073,
+    "torque": 0.13276
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 5,
+    "e_peak": 43.318,
+    "p_bus": 15.6727,
+    "p_shaft": 23.9572,
+    "torque": 0.17598
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 7,
+    "e_peak": 43.318,
+    "p_bus": 21.4589,
+    "p_shaft": 29.4386,
+    "torque": 0.21624
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 9,
+    "e_peak": 43.318,
+    "p_bus": 26.7986,
+    "p_shaft": 34.399,
+    "torque": 0.25268
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 12,
+    "e_peak": 43.318,
+    "p_bus": 33.676,
+    "p_shaft": 40.5625,
+    "torque": 0.29796
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 15,
+    "e_peak": 43.318,
+    "p_bus": 38.7097,
+    "p_shaft": 44.7175,
+    "torque": 0.32848
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 18,
+    "e_peak": 43.318,
+    "p_bus": 41.193,
+    "p_shaft": 46.1486,
+    "torque": 0.33899
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 24,
+    "e_peak": 43.318,
+    "p_bus": 33.5083,
+    "p_shaft": 35.8777,
+    "torque": 0.26354
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 30,
+    "e_peak": 43.318,
+    "p_bus": 18.9844,
+    "p_shaft": 19.7659,
+    "torque": 0.14519
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1300,
+    "vbus": 40,
+    "e_peak": 43.318,
+    "p_bus": 1.2253,
+    "p_shaft": 1.2446,
+    "torque": 0.00914
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 3,
+    "e_peak": 56.647,
+    "p_bus": 9.6274,
+    "p_shaft": 18.2457,
+    "torque": 0.10249
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 5,
+    "e_peak": 56.647,
+    "p_bus": 15.8967,
+    "p_shaft": 24.3799,
+    "torque": 0.13695
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 7,
+    "e_peak": 56.647,
+    "p_bus": 21.9719,
+    "p_shaft": 30.2703,
+    "torque": 0.17004
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 9,
+    "e_peak": 56.647,
+    "p_bus": 27.7918,
+    "p_shaft": 35.8702,
+    "torque": 0.20149
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 12,
+    "e_peak": 56.647,
+    "p_bus": 35.9003,
+    "p_shaft": 43.5602,
+    "torque": 0.24469
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 15,
+    "e_peak": 56.647,
+    "p_bus": 43.0134,
+    "p_shaft": 50.1496,
+    "torque": 0.2817
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 18,
+    "e_peak": 56.647,
+    "p_bus": 48.8819,
+    "p_shaft": 55.4114,
+    "torque": 0.31126
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 24,
+    "e_peak": 56.647,
+    "p_bus": 55.0402,
+    "p_shaft": 60.012,
+    "torque": 0.3371
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 30,
+    "e_peak": 56.647,
+    "p_bus": 49.1133,
+    "p_shaft": 52.0911,
+    "torque": 0.29261
+   },
+   {
+    "motor": "nema23",
+    "rpm": 1700,
+    "vbus": 40,
+    "e_peak": 56.647,
+    "p_bus": 23.8507,
+    "p_shaft": 24.5719,
+    "torque": 0.13803
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 3,
+    "e_peak": 73.308,
+    "p_bus": 9.6656,
+    "p_shaft": 18.3431,
+    "torque": 0.07962
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 5,
+    "e_peak": 73.308,
+    "p_bus": 16.0208,
+    "p_shaft": 24.6173,
+    "torque": 0.10685
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 7,
+    "e_peak": 73.308,
+    "p_bus": 22.263,
+    "p_shaft": 30.75,
+    "torque": 0.13347
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 9,
+    "e_peak": 73.308,
+    "p_bus": 28.3524,
+    "p_shaft": 36.7067,
+    "torque": 0.15933
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 12,
+    "e_peak": 73.308,
+    "p_bus": 37.124,
+    "p_shaft": 45.2279,
+    "torque": 0.19632
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 15,
+    "e_peak": 73.308,
+    "p_bus": 45.3424,
+    "p_shaft": 53.1321,
+    "torque": 0.23062
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 18,
+    "e_peak": 73.308,
+    "p_bus": 52.9144,
+    "p_shaft": 60.3477,
+    "torque": 0.26194
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 24,
+    "e_peak": 73.308,
+    "p_bus": 65.1756,
+    "p_shaft": 71.692,
+    "torque": 0.31119
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 30,
+    "e_peak": 73.308,
+    "p_bus": 71.7753,
+    "p_shaft": 77.0922,
+    "torque": 0.33463
+   },
+   {
+    "motor": "nema23",
+    "rpm": 2200,
+    "vbus": 40,
+    "e_peak": 73.308,
+    "p_bus": 61.9336,
+    "p_shaft": 64.6828,
+    "torque": 0.28076
+   }
+  ]
+ }
+}
